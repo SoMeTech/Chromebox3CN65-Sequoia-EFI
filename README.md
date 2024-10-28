@@ -31,3 +31,4 @@ ASUS Chromebox3CN65 Sequoia EFI文件
 # 注意事项
 - 1、博通 BCM94360CS2虽然是苹果拆机网卡，在Ventura以前是免驱的，但自从Sonoma后，需要另行驱动，可参考以下文章
 https://heipg.cn/tutorial/patch-brcm-wireless-card-macos-sonoma.html
+** 本EFI已经驱动，无需重复操作
