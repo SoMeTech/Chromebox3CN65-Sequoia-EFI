@@ -4,8 +4,8 @@ ASUS Chromebox3CN65 Sequoia EFI文件
 # 机器情况
 
 型号: Asus Chromebox3 CN65
-处理器: Intel Core i7-8550U
-显卡: Intel UHD 620
+[]处理器: Intel Core i7-8550U
+[]显卡: Intel UHD 620
 内存: 32GB DDR4 (自行升级)
 存储: NVMe SSD (自行升级，或者原厂 SATA SSD)
 声卡: 不知道什么型号
