@@ -15,10 +15,8 @@ ASUS Chromebox3CN65 Sequoia EFI文件
 
 # 已实现功能
 
-- [x] Intel UHD 620 显卡 (支持硬件加速)
-      
+- [x] Intel UHD 620 显卡 (支持硬件加速)      
 - [x] WiFi 和蓝牙、隔空投送
-
 - [x]  USB 接口 (Type-A 和 Type-C)
 - [x] HDMI 输出（也可以使用全功能Type-C连接显 器）
 - [x] 亮度控制
@@ -28,7 +26,5 @@ ASUS Chromebox3CN65 Sequoia EFI文件
  # 不工作/存在问题
  
 - [ ] SD 卡读卡器
-
 - [ ] 3.5MM耳机接口（因为不知道声卡型号，未驱动）
-
 - [ ] 睡眠后无法唤醒
