@@ -15,13 +15,15 @@ ASUS Chromebox3CN65 Sequoia EFI文件
 
 # 已实现功能
 
- [x] Intel UHD 620 显卡 (支持硬件加速)
- [x] WiFi 和蓝牙、隔空投送
- [x] USB 接口 (Type-A 和 Type-C)
- [x] HDMI 输出（也可以使用全功能Type-C连接显 器）
- [x] 亮度控制
- [x] 有线以太网
- [x] macOS 电源管理 (包括 CPU 电源状态)
+- [x] Intel UHD 620 显卡 (支持硬件加速)
+      
+- [x] WiFi 和蓝牙、隔空投送
+
+- [x]  USB 接口 (Type-A 和 Type-C)
+- [x] HDMI 输出（也可以使用全功能Type-C连接显 器）
+- [x] 亮度控制
+- [x] 有线以太网
+- [x] macOS 电源管理 (包括 CPU 电源状态)
  
  # 不工作/存在问题
  
