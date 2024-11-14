@@ -12,7 +12,7 @@ ASUS Chromebox3CN65 Sequoia EFI文件
 - 声卡: 不知道什么型号
 -  无线网卡: 博通 BCM94360CS2 （苹果拆机网卡）
 -  引导器: OpenCore 1.0.2
--  macOS 版本: Sequoia 15.0.1
+-  macOS 版本: Sequoia 15.1 (24B83)
 
 # 已实现功能
 
