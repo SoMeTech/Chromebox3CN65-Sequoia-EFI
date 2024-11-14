@@ -1,6 +1,7 @@
 # Chromebox3CN65-Sequoia-EFI
 ASUS Chromebox3CN65 Sequoia EFI文件
-
+### 2024-11-14 更新 
+系统升级到Sequoia 15.1 (24B83)
 # 机器情况
 
 - 型号: Asus Chromebox3 CN65
