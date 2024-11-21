@@ -3,7 +3,7 @@ ASUS Chromebox3CN65 Sequoia EFI文件
 ### 2024-11-15 更新 
 系统升级到Sequoia 15.1 (24B83)
 # 机器情况
-![image]()
+![image](https://github.com/SoMeTech/Chromebox3CN65-Sequoia-EFI/blob/main/Chromebox.png)
 - 型号: Asus Chromebox3 CN65
 - 处理器: Intel Core i7-8550U
 -  显卡: Intel UHD 620
